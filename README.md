@@ -5,4 +5,5 @@ Just some world of warcraft macros
 /run if OrderHallCommandBar:IsVisible()	
 
 then OrderHallCommandBar:Hide();
+
 else OrderHallCommandBar:Show(); end
