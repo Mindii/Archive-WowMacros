@@ -1,7 +1,7 @@
 # WowMacros
 Just some world of warcraft macros
 
-# Hide Orderhall command bar
+# Hide 7.0 topbar aka OrderhallCommandBar
 /run if OrderHallCommandBar:IsVisible()	
 
 then OrderHallCommandBar:Hide();
