@@ -7,3 +7,5 @@ Just some world of warcraft macros
 then OrderHallCommandBar:Hide();
 
 else OrderHallCommandBar:Show(); end
+
+Edit. wow checks every 5sec or so when you are on the area so this dont work right now there is soon mod for it anyways.
